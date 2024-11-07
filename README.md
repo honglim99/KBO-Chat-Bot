@@ -81,8 +81,8 @@ RAG
 - **선수 정보 검색**: 텍스트 입력란에 원하는 선수의 이름을 입력하고 `전송` 버튼을 클릭하면 해당 선수의 기록이 화면에 표시됩니다.
 
 ## 개발 환경
-- **OS**: Windows 10 / macOS Monterey / Ubuntu 20.04
-- **Python 버전**: 3.10
+- **OS**: Windows 11
+- **Python 버전**: 3.11.7
 - **IDE**: Visual Studio Code
 
 ## 주요 라이브러리
